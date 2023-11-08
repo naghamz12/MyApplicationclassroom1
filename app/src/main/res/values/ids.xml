@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="gallery" type="id">dsa</item>
+    <item name="galleryad" type="id">ad</item>
+    <item name="galleryaddcc" type="id">daccsacf</item>
+</resources>
